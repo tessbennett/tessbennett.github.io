@@ -1,0 +1,35 @@
+/**
+ * Css related to the series view.
+ * 
+ * Created by Jared Bennett
+ */
+
+#seriesDescription {
+	
+}
+
+.seriesTitleBtn {
+	display: inline-block;
+	margin: 0;
+	padding: .3em .6em .3em .6em;
+	font-weight: normal;
+	color: #616156;
+}
+
+#currentSeriesBtn {
+	font-weight: bold;
+	background-color: #616156;
+	color:#FFF;
+	border-radius: 6px;
+}
+
+#seriesTitles {
+	margin-bottom: 30px;
+}
+
+a.viewFull {
+	display: inline-block;
+	font-weight: bold;
+	font-size: small;
+}
+
