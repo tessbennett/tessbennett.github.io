@@ -7,7 +7,7 @@
 
 # CONSTANTS #######################################################
 
-DIVIDER_CHAR = '|' #'&#149;' 
+DIVIDER_CHAR = '&#149;'
 S_TITLE_COLOR_CURR = ''
 S_TITLE_COLOR_OTHR = ''
 DEFAULT_SERIES = 0
@@ -62,7 +62,7 @@ setSeries = (index) ->
 			img.href + "' class='image fit thumb'><img src='" + img.src  +
 			"' alt='" + img.alt + "' /></a><h3>" + img.title + "</h3><p>" + 
 			img.description + "</p><a class='" + CLASS_VIEW_FULL + "' href='" + 
-			img.href + "' data-poptrox='ignore'>View Full Image</a></article>"
+			img.href + "' data-poptrox='ignore'>HIGH RESOLUTION</a></article>"
 				
 		$sImages.append(imageCode)
 		imageCode = ""

@@ -18,18 +18,17 @@
 
 #currentSeriesBtn {
 	font-weight: bold;
-	background-color: #616156;
-	color:#FFF;
+	/*background-color: #616156;*/
+	/*color:#FFF;*/
 	border-radius: 6px;
 }
 
 #seriesTitles {
 	margin-bottom: 30px;
 }
-
 a.viewFull {
 	display: inline-block;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: small;
 }
 

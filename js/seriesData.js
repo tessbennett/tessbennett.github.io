@@ -50,7 +50,7 @@
 var seriesData =
 [
 	{
-		"title":"Recent Works",
+		"title":"RECENT",
 		"description":"Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat.",
 		"images": [
 			{
@@ -97,8 +97,9 @@ var seriesData =
 			}
 		]
 	},
+	
 	{
-		"title":"Other Works",
+		"title":"ONE WEEK",
 		"description":"",
 		"images": [
 			{
@@ -146,7 +147,7 @@ var seriesData =
 		]
 	},
 	{
-		"title":"Kewl Shit",
+		"title":"PAIR",
 		"description":"",
 		"images": [
 			{
@@ -166,7 +167,7 @@ var seriesData =
 		]
 	},
 	{
-		"title":"Paris",
+		"title":"ERASED",
 		"description":"Herp derp I'm a description",
 		"images": [
 			{
@@ -186,7 +187,7 @@ var seriesData =
 		]
 	},
 	{
-		"title":"Rawrr",
+		"title":"STAR BEINGS",
 		"description":"Tat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat. Lorem ipsum dolor sit amet nisl sed nullam feugiat.",
 		"images": [
 			{
